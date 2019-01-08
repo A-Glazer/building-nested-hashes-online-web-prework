@@ -25,10 +25,10 @@ def bonus
 <<<<<<< HEAD
 
 =======
-  
+
 >>>>>>> b4bdfadeaae2dfd0d1ccc31e4daa682fae19c3b2
 =======
-  
+
 >>>>>>> b4bdfadeaae2dfd0d1ccc31e4daa682fae19c3b2
   epic_tragedy[:capulet][:heroine][:status] => "dead"
 
